@@ -1,0 +1,9 @@
+{"Default user": "postgres",
+"Default schema": "public",
+"Default table names": ["trackpoints", "tracklines"],
+"Altitude data type": "integer",
+"Identifier field length": 300,
+"Coordinate precision": 8,
+"Default prefix": "VID",
+"Default directory":  "D://",
+"Default filename": "origin_6_lrv.mp4"}

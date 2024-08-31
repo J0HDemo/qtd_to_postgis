@@ -1,0 +1,4 @@
+psycopg==3.2.1
+customtkinter==5.2.2
+CTkMessagebox==2.7
+ttkbootstrap==1.10.1
