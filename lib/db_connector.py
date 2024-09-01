@@ -4,7 +4,7 @@ Postgres Database Connector
 Establishes connection with the target Database.
 Verifies PostGIS extension being enabled for the target Database.
 Enables PostGIS extension for the target Database.
-Retrieves lits of existing Databases, tables and columns within them.
+Retrieves list of existing Databases, tables and columns within them.
 
 © 2024 Kirill Romashchenko
 """
