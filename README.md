@@ -22,7 +22,7 @@ The full list of QuickTime File Format (QTFF) tags is listed on ExifTool's [webs
 Application is designed for
 Windows 64-bit systems and requires an ExifTool executable to perform its functions. See install section for details.
 
-**QuickTime Data to PostGIS** is distributed under the [MIT License](https://opensource.org/license/mit).
+**QuickTime Data to PostGIS** is licensed under the [MIT License](https://opensource.org/license/mit).
 
 ## Install
 
